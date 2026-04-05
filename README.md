@@ -29,7 +29,7 @@ A Streamlit dashboard that lets you filter, compare, and explore **188 LLMs from
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/llmrank.git
+git clone https://github.com/CodeWithPriyankaMukherjee/LLMrank.git
 cd llmrank
 ```
 
